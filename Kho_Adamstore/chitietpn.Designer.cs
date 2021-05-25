@@ -169,7 +169,7 @@
             this.btnxoa.Name = "btnxoa";
             this.btnxoa.Size = new System.Drawing.Size(75, 23);
             this.btnxoa.TabIndex = 15;
-            this.btnxoa.Text = "xóa";
+            this.btnxoa.Text = "Xóa";
             this.btnxoa.UseVisualStyleBackColor = true;
             this.btnxoa.Click += new System.EventHandler(this.btnxoa_Click);
             // 
@@ -199,7 +199,7 @@
             this.btntim.Name = "btntim";
             this.btntim.Size = new System.Drawing.Size(75, 23);
             this.btntim.TabIndex = 18;
-            this.btntim.Text = "TÌm kiếm";
+            this.btntim.Text = "Tìm kiếm";
             this.btntim.UseVisualStyleBackColor = true;
             this.btntim.Click += new System.EventHandler(this.btntim_Click);
             // 

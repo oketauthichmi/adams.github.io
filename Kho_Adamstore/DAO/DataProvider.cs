@@ -13,7 +13,7 @@ namespace Kho_Adamstore.DAO
         private static DataProvider instance;// tao doi tuong tu khoa la static, suy ra bat cu cai gi thong qua intance ddeula duy nhat
 
 
-        private string connectionstr = @"Data Source=DESKTOP-M6BBJ1F\SQLEXPRESS;Initial Catalog=KHO_ADAM;Integrated Security=True";
+        private string connectionstr = @"Data Source=DESKTOP-CCFIGBC\SQLEXPRESS;Initial Catalog=KHO_ADAM;Integrated Security=True";
 
         public static DataProvider Instance
         {

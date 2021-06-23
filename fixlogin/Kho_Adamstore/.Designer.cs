@@ -55,7 +55,7 @@
             this.txtname.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtname.ForeColor = System.Drawing.SystemColors.InfoText;
             this.txtname.Location = new System.Drawing.Point(92, 337);
-            this.txtname.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtname.Margin = new System.Windows.Forms.Padding(4);
             this.txtname.Name = "txtname";
             this.txtname.Size = new System.Drawing.Size(279, 28);
             this.txtname.TabIndex = 2;
@@ -66,10 +66,11 @@
             this.txtpass.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtpass.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtpass.Location = new System.Drawing.Point(92, 422);
-            this.txtpass.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtpass.Margin = new System.Windows.Forms.Padding(4);
             this.txtpass.Name = "txtpass";
             this.txtpass.Size = new System.Drawing.Size(279, 27);
             this.txtpass.TabIndex = 3;
+            this.txtpass.UseSystemPasswordChar = true;
             // 
             // btndangnhap
             // 
@@ -81,7 +82,7 @@
             this.btndangnhap.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btndangnhap.ForeColor = System.Drawing.SystemColors.ControlText;
             this.btndangnhap.Location = new System.Drawing.Point(61, 487);
-            this.btndangnhap.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btndangnhap.Margin = new System.Windows.Forms.Padding(4);
             this.btndangnhap.Name = "btndangnhap";
             this.btndangnhap.Size = new System.Drawing.Size(309, 47);
             this.btndangnhap.TabIndex = 4;
@@ -99,7 +100,7 @@
             this.btnthoat.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnthoat.Image = ((System.Drawing.Image)(resources.GetObject("btnthoat.Image")));
             this.btnthoat.Location = new System.Drawing.Point(416, 566);
-            this.btnthoat.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnthoat.Margin = new System.Windows.Forms.Padding(4);
             this.btnthoat.Name = "btnthoat";
             this.btnthoat.Size = new System.Drawing.Size(51, 55);
             this.btnthoat.TabIndex = 5;
@@ -113,7 +114,7 @@
             this.panel1.Controls.Add(this.button1);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
-            this.panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(467, 43);
             this.panel1.TabIndex = 7;
@@ -129,7 +130,7 @@
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.button2.Location = new System.Drawing.Point(357, 0);
-            this.button2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button2.Margin = new System.Windows.Forms.Padding(4);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(44, 43);
             this.button2.TabIndex = 11;
@@ -148,7 +149,7 @@
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.button1.Location = new System.Drawing.Point(396, 0);
-            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button1.Margin = new System.Windows.Forms.Padding(4);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(71, 43);
             this.button1.TabIndex = 8;
@@ -160,7 +161,7 @@
             // 
             this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(15)))), ((int)(((byte)(15)))));
             this.panel2.Location = new System.Drawing.Point(92, 364);
-            this.panel2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel2.Margin = new System.Windows.Forms.Padding(4);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(279, 4);
             this.panel2.TabIndex = 8;
@@ -169,7 +170,7 @@
             // 
             this.panel3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(15)))), ((int)(((byte)(15)))));
             this.panel3.Location = new System.Drawing.Point(92, 446);
-            this.panel3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel3.Margin = new System.Windows.Forms.Padding(4);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(279, 4);
             this.panel3.TabIndex = 9;
@@ -189,7 +190,7 @@
             // 
             this.pictureBox3.BackgroundImage = global::Kho_Adamstore.Properties.Resources.Security_Password_2_icon;
             this.pictureBox3.Location = new System.Drawing.Point(37, 410);
-            this.pictureBox3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox3.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(43, 39);
             this.pictureBox3.TabIndex = 12;
@@ -199,7 +200,7 @@
             // 
             this.pictureBox2.BackgroundImage = global::Kho_Adamstore.Properties.Resources.icons8_user_32px;
             this.pictureBox2.Location = new System.Drawing.Point(37, 338);
-            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(43, 39);
             this.pictureBox2.TabIndex = 11;
@@ -211,7 +212,7 @@
             this.pictureBox1.BackgroundImage = global::Kho_Adamstore.Properties.Resources.logo_adam_store;
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox1.Location = new System.Drawing.Point(61, 50);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(309, 204);
             this.pictureBox1.TabIndex = 6;
@@ -236,7 +237,7 @@
             this.Controls.Add(this.txtname);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "login";
             this.Opacity = 0.92D;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;

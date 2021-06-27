@@ -60,3 +60,24 @@ D:\downloads\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.csproj.Generate
 D:\downloads\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.csproj.CoreCompileInputs.cache
 D:\downloads\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.exe
 D:\downloads\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.pdb
+C:\Users\DAO QUANG HUY\Desktop\adams.github.io\end\Kho_Adamstore\Kho_Adamstore\bin\Debug\Kho_Adamstore.exe.config
+C:\Users\DAO QUANG HUY\Desktop\adams.github.io\end\Kho_Adamstore\Kho_Adamstore\bin\Debug\Kho_Adamstore.exe
+C:\Users\DAO QUANG HUY\Desktop\adams.github.io\end\Kho_Adamstore\Kho_Adamstore\bin\Debug\Kho_Adamstore.pdb
+C:\Users\DAO QUANG HUY\Desktop\adams.github.io\end\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.csprojAssemblyReference.cache
+C:\Users\DAO QUANG HUY\Desktop\adams.github.io\end\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.dangky.resources
+C:\Users\DAO QUANG HUY\Desktop\adams.github.io\end\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.chitietpn.resources
+C:\Users\DAO QUANG HUY\Desktop\adams.github.io\end\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.chitietxuat.resources
+C:\Users\DAO QUANG HUY\Desktop\adams.github.io\end\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.login.resources
+C:\Users\DAO QUANG HUY\Desktop\adams.github.io\end\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.Hang.resources
+C:\Users\DAO QUANG HUY\Desktop\adams.github.io\end\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.LoaiHang.resources
+C:\Users\DAO QUANG HUY\Desktop\adams.github.io\end\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.NhaCungCap.resources
+C:\Users\DAO QUANG HUY\Desktop\adams.github.io\end\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.Nhanvien.resources
+C:\Users\DAO QUANG HUY\Desktop\adams.github.io\end\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.NhapHang.resources
+C:\Users\DAO QUANG HUY\Desktop\adams.github.io\end\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.Properties.Resources.resources
+C:\Users\DAO QUANG HUY\Desktop\adams.github.io\end\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.thongkehangton.resources
+C:\Users\DAO QUANG HUY\Desktop\adams.github.io\end\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.TrangChu.resources
+C:\Users\DAO QUANG HUY\Desktop\adams.github.io\end\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.XuatHang.resources
+C:\Users\DAO QUANG HUY\Desktop\adams.github.io\end\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.csproj.GenerateResource.cache
+C:\Users\DAO QUANG HUY\Desktop\adams.github.io\end\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.csproj.CoreCompileInputs.cache
+C:\Users\DAO QUANG HUY\Desktop\adams.github.io\end\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.exe
+C:\Users\DAO QUANG HUY\Desktop\adams.github.io\end\Kho_Adamstore\Kho_Adamstore\obj\Debug\Kho_Adamstore.pdb
